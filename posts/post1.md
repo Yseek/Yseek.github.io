@@ -7,13 +7,13 @@
 프로젝트의 간략한 스펙이다.
 
 
-            1. Spring 프레임워크
-
-            2. 빌드 툴을 사용하지 않고 프로젝트 내부에 lib 폴더에 스프링프레임워크을 갖고 있음.
-
-            3. 자바 1.7
-
-            4. Oracle 10g Enterprise Edition Release 10.2.0.1.0 
+> - Spring 프레임워크
+>
+> - 빌드 툴을 사용하지 않고 프로젝트 내부에 lib 폴더에 스프링프레임워크을 갖고 있음.
+>
+> - 자바 1.7
+>
+> - Oracle 10g Enterprise Edition Release 10.2.0.1.0 
 
 
 말도 안되는 방식의 서비스란...
@@ -45,12 +45,7 @@
 
 ![images](../images/image.png)
 
-효과가 전혀 없었다. 테슽
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
+효과가 전혀 없었다.
 
 버전에 맞는 ojdbc 라이브러리, 
 commons-pool 버전 호환
