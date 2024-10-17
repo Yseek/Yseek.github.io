@@ -5,7 +5,7 @@
 가볍고 빠르지만, 10년 가까이 말도 안되는 방식으로 서비스를 하고 있었다.
 
 프로젝트의 간략한 스펙이다.
-<br><br>
+
 
             1. Spring 프레임워크
 
@@ -15,7 +15,6 @@
 
             4. Oracle 10g Enterprise Edition Release 10.2.0.1.0 
 
-<br>
 
 말도 안되는 방식의 서비스란...
 
@@ -46,7 +45,9 @@
 
 ![images](../images/image.png)
 
-효과가 전혀 없었다.
+효과가 전혀 없었다. 테슽
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
