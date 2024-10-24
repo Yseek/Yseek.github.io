@@ -22,7 +22,7 @@ const MiniBlog = () => {
   // 게시글 목록
   const posts = [
     { id: 'post1', title: '레거시 프로젝트' },
-    { id: 'post2', title: '작성중' }
+    { id: 'post2', title: '첨부파일 전송오류' }
   ];
 
   return (
